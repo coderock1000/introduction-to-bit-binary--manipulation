@@ -8,8 +8,8 @@ f = b & c
 g = d & f
 q = d | g
 
-print(f"d (a & b) = ", d)
-print(f"l (b | c) = ", l)
-print(f"f (b & c) = ", f)
-print(f"g (d & f) = ", g)
-print(f"q (d | g) = ", q)
+print("d (a & b) = ", d)
+print("l (b | c) = ", l)
+print("f (b & c) = ", f)
+print("g (d & f) = ", g)
+print("q (d | g) = ", q)
